@@ -4,6 +4,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artmccyber)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturomc.cyber@gmail.com)
 
+
+___
+
+
 ### Welcome to My Cybersecurity Portfolio!
 
 Hello and thanks for visiting!
@@ -12,7 +16,9 @@ I'm a passionate Cybersecurity Specialist with a dynamic career spanning over a 
 
 Explore my portfolio to see how my blend of technical expertise and soft skills can help you navigate and secure the digital realm. Let’s connect and collaborate on securing our future in cyberspace!
 
+
 ___
+
 
 ### Education
 
@@ -43,7 +49,9 @@ ___
 - Digital Skills II
 - Professional Practices
 
+
 ___
+
 
 ### Certifications
 
@@ -56,7 +64,9 @@ ___
 - Exploitation of web and system vulnerabilities
 - Post-Exploitation (Privilege escalation, persistence, and lateral movement)
 
+
 ___
+
 
 ### Research Interests
 - CTF, Bug Bounty, Programming Languages (Java, Python, C#, C++) and AI
