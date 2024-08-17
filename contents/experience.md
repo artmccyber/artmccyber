@@ -1,5 +1,3 @@
-### Work Experience
-
 **Security Specialist at Ericsson**
 
 *Since 04/2024 to present*
